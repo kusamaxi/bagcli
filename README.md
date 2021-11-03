@@ -1,24 +1,19 @@
 
-# bagcli
+# polkaCLI
 
-Brot and Games CLI
-
-This repository is part of a blog post about building a custom CLI with Bash:
-
-https://medium.com/@brotandgames/build-a-custom-cli-with-bash-e3ce60cfb9a4
-
-It is meant to be a blueprint or skeleton for a Bash compliant CLI.
+polkaCLI is bash project 
 
 ## Usage
 
 ````
-git clone https://github.com/brotandgames/bagcli
-cd bagcli
-./bagcli help
+git clone https://github.com/kusamaxi/polkacli
+cd polkacli && cp polkacli /usr/share/bin/ && cp /usr/share/bin/polkacli /usr/share/sbin
+polkacli help
 ````
 
 ## Maintainer
 
-Brot and Games
+Kusama XI
 
-https://github.com/brotandgames
+https://github.com/kusamaxi
+https://kusamaxi.com
